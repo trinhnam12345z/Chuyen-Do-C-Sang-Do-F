@@ -1,0 +1,12 @@
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\obj\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.AssemblyInfoInputs.cache
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\obj\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.AssemblyInfo.cs
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\obj\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.csproj.CoreCompileInputs.cache
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\bin\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.exe
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\bin\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.deps.json
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\bin\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.runtimeconfig.json
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\bin\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.runtimeconfig.dev.json
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\bin\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.dll
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\bin\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.pdb
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\obj\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.dll
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\obj\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.pdb
+E:\BT C#\ChuyenDoC_SangDoF\ChuyenDoC_SangDoF\obj\Debug\netcoreapp3.1\ChuyenDoC_SangDoF.genruntimeconfig.cache
